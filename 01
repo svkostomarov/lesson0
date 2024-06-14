@@ -1,0 +1,22 @@
+h='hellow'
+print(len(h))
+
+first = 10
+second = 5
+summa = first + second
+diff = first - second
+print(summa, diff)
+
+third = 15
+mean = (first+second+third)//3
+print(mean)
+
+first_string = 'Вторник'
+second_string = 'Понедельник'
+print(second_string+', '+first_string)
+
+a = 2
+b = 4
+c = 6
+f = (a * b) + (a * c)
+print (f**3/2)
